@@ -1,0 +1,5 @@
+server:
+  port: ${PORT:12001}
+spring:
+  application:
+    name: page-service
